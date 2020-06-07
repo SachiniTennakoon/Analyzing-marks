@@ -1,2 +1,3 @@
 # Analyzing-marks
-Python program to analyze the marks of students 
+This repository contains a simple python program to analyze the marks of students.
+grade the marks and diplay them in a star graph.
